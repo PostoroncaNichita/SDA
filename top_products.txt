@@ -1,0 +1,5 @@
+Sale_date: 2022-10-17	 Product_id_1: 8144072
+Sale_date: 1992-04-15	 Product_id_2: 6674691
+Sale_date: 1980-11-26	 Product_id_3: 6065450
+Sale_date: 2020-03-09	 Product_id_4: 9954795
+Sale_date: 2014-05-16	 Product_id_5: 5074704
